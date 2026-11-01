@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>实验室新闻 | 云计算与智能信息处理实验室</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/</link><atom:link href="https://tianyuzong.github.io/ucas-ccip-website-pages/post/index.xml" rel="self" type="application/rss+xml"/><description>实验室新闻</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate><image><url>https://tianyuzong.github.io/ucas-ccip-website-pages/media/logo_hu90e9f8335119685647ad2784a11c425b_57446_300x300_fit_lanczos_3.png</url><title>实验室新闻</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/</link></image><item><title>实验室一篇论文被全球人工智能顶会AAAI2026录用</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/25-11-10-shi-yan-shi-yi-pian/</link><pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/25-11-10-shi-yan-shi-yi-pian/</guid><description>&lt;p>2025年11月8日，实验室硕士生张正昊同学为第一作者的论文“Dynamic Deep Graph Learning for Incomplete Multi-View Clustering with Masked Graph Reconstruction Loss”被全球人工智能顶会AAAI2022录用。&lt;/p>
+&lt;p>该论文提出了一种新颖的动态深度图学习方法——带有掩码图重建损失的不完整多视角聚类。首先，从原始数据构建一个具有鲁棒性的缺失图，然后设计了一个图卷积嵌入层，用于提取主要特征和细化动态视图特定的图结构，利用全局图对缺失视图进行补全。此外，还通过图结构对比学习来识别视图特定图结构之间的一致性。其次，引入了一种图自注意力编码器，它基于已填充的原始特征和特定视角的图来提取高级表示，并通过掩码图重建损失进行优化，以在优化过程中减轻梯度噪声。最后，构建了一个聚类模块，并通过伪标签自监督训练机制进行优化。在多个数据集上的大量实验验证了该方法的有效性和优越性。&lt;/p></description></item><item><title>实验室徐俊刚老师任国际期刊《IEEE Transactions on Knowledge and Data Engineering》编委</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/25-09-11-shi-yan-shi-xu-jun/</link><pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/25-09-11-shi-yan-shi-xu-jun/</guid><description>&lt;p>2025年9月9日，徐俊刚老师接受国际期刊《IEEE Transactions on Knowledge and Data Engineering》主编香港科技大学陈雷教授的邀请，担任该期刊的编委（Associate Editor）。&lt;/p>
+&lt;p>《IEEE Transactions on Knowledge and Data Engineering》（TKDE）是IEEE出版的著名国际期刊，1989年创刊，是数据科学与AI领域的顶尖国际期刊，研究范畴覆盖​知识工程、数据挖掘、机器学习算法​等技术方向，致力于推动智能系统与数据技术的交叉应用，现任主编是香港科技大学陈雷教授。&lt;/p>
+&lt;p>该期刊为中国科学院一区TOP期刊、中国计算机学会（CCF）推荐A类期刊，目前影响因子为10.4。&lt;/p></description></item><item><title>实验室徐俊刚老师任国际期刊《Information Processing &amp; Management》编委</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/25-06-15-shi-yan-shi-xu-jun/</link><pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/25-06-15-shi-yan-shi-xu-jun/</guid><description>&lt;p>2025年6月13日，徐俊刚老师任国际期刊《Information Processing &amp;amp; Management》编委。&lt;/p>
+&lt;p>《Information Processing and Management》（IPM）是由爱思唯尔（Elsevier）出版的国际著名学术期刊，创刊于1963年，聚焦计算机科学、信息科学、图书情报学等领域的交叉研究，涵盖商业分析、健康信息学、社会计算、信息系统等方向。现任主编（Editors-in-Chief）为卡塔尔Hamad Bin Khalifa 大学Bernard Jansen教授。&lt;/p>
+&lt;p>IPM在学术界享有较高声誉，是SCI和SSCI双收录期刊，影响因子为6.9，为中国科学院一区TOP期刊，中国计算机学会（CCF）推荐B类期刊。‌&lt;/p></description></item><item><title>实验室徐俊刚老师任国际期刊《Data Science and Engineering》编委</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/25-04-10-shi-yan-shi-xu-jun/</link><pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/25-04-10-shi-yan-shi-xu-jun/</guid><description>&lt;p>2025年4月8日，徐俊刚老师接受国际期刊《Data Science and Engineering》主编北京大学崔斌教授的邀请，担任该期刊的编委（Associate Editor）。&lt;/p>
+&lt;p>《Data Science and Engineering》（DSE）是由中国计算机学会主办，数据库专业委员会承办，施普林格·自然（Springer Nature）出版的开放获取（Open Access）期刊。DSE致力于发表与数据科学与工程领域相关的关键科学问题与前沿研究热点，以大数据为研究重点，建设国际学术交流的重要平台，推动学术界和企业界的深度融合。现任主编（Editors-in-Chief）为数据科学与工程领域的知名专家北京大学崔斌教授。&lt;/p>
+&lt;p>DSE现为中国科学院一区期刊，影响因子为4.6（2024）。&lt;/p></description></item><item><title>实验室一篇论文被全球人工智能顶会AAAI2025录用</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/24-12-12-shi-yan-shi-yi-pian/</link><pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/24-12-12-shi-yan-shi-yi-pian/</guid><description>&lt;p>2024年12月10日，实验室博士生宗天禹同学为第一作者的论文“TNCSE: Tensor Norm Constraints for Contrastive Learning of Sentence Embedding”被全球人工智能顶会AAAI2025录用。&lt;/p>
+&lt;p>该论文提出了一种新的训练目标函数，通过约束正样本之间的模块长度特征来优化无监督对比学习的训练。将张量的范数约束训练目标函数与集成学习相结合，提出了一个新的句子嵌入表示框架——TNCSE。论文评估了七个语义文本相似性任务，结果表明 TNCSE 及其衍生模型是当前领先方法；此外，进行了广泛的零样本评估，结果表明 TNCSE 优于其他基准模型。&lt;/p></description></item><item><title>《深度学习》教材正式出版</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/24-05-26-shen-du-xue-xi-jiao/</link><pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/24-05-26-shen-du-xue-xi-jiao/</guid><description>&lt;p>2024年5月24日，实验室徐俊刚老师主编的《深度学习》教材由机械工业出版社正式出版，该教材属于中国科学院大学研究生教材系列，中国科学院大学计算机学院副院长/IEEE Fellow黄庆明教授为本书写了序。&lt;/p>
+&lt;p>该教材基本涵盖了深度学习的主要内容，包括卷积神经网络、循环神经网络、Transformer、生成对抗网络、深度生成模型、正则化与优化方法和深度学习框架等；同时该教材设计了多个实验，便于选用本教材的教师有选择地安排教学实验或者其他读者自行练习实践技能。&lt;/p>
+&lt;p>该教材由百度技术委员会理事长陈尚义、北京交通大学人工智能研究院院长/中国人工智能学会副秘书长于剑教授、IEEE Fellow/中国人工智能学会常务理事杜军平教授、中山大学网络空间安全学院院长操晓春教授联合推荐。&lt;/p>
+&lt;p>2025年6月26日，机械工业出版社还专门为本教材出版召开了新书发布会，中国科学院软件研究所戴国忠研究员、中国科学院大学黄庆明教授、北京交通大学于剑教授、北京邮电大学张成文教授和海高创新王树满总监等专家学者参加了发布会。机械工业出版社时静副社长、中国科学院软件所戴国忠研究员、中国科学院大学黄庆明教授分别作了发布会致辞。发布会新闻详见链接：https://www.eet-china.com/mp/a326184.html。&lt;/p></description></item><item><title>实验室徐俊刚、林姝老师获得2023年中国科学院大学领雁银奖</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/23-09-03-shi-yan-shi-xu-jun/</link><pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/23-09-03-shi-yan-shi-xu-jun/</guid><description>&lt;p>2023年9月，实验室徐俊刚、林姝老师由于教学科研工作中的杰出表现，被授予2023年中国科学院大学领雁银奖•振翅奖。&lt;/p></description></item><item><title>实验室一篇论文被全球人工智能顶会IJCAI2022录用</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/22-06-01-ijcai/</link><pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/22-06-01-ijcai/</guid><description>&lt;p>2021年6月1日，实验室博士生景琨的一篇关于神经架构搜索的论文被全球人工智能顶会IJCAI2022录用，该论文提出了一个使用图掩码自编码器增强的神经架构性能预测器，并实现了高查询利用率的神经架构搜索算法，发现了具有竞争性的神经架构。封面图为论文poster。&lt;/p></description></item><item><title>实验室博士生王义宇的一篇论文在国际期刊Neurocomputing上发表</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/21-12-02-image/</link><pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/21-12-02-image/</guid><description>&lt;p>2021年12月，实验室博士生王义宇的一篇图像描述相关的论文“A Visual Persistence Model for Image Captioning”在国际期刊Neurocomputing（中科院二区期刊）上正式发表。&lt;/p>
+&lt;p>论文标题和摘要如封面所示。&lt;/p></description></item><item><title>实验室一篇论文被全球人工智能顶会AAAI2022录用</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/21-12-01-aaai/</link><pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/21-12-01-aaai/</guid><description>&lt;p>2021年12月1日，实验室博士生王义宇的一篇关于图像描述的论文被全球人工智能顶会AAAI2022录用，该论文使用全Transformer架构，实现了图像描述模型性能的显著提升。&lt;/p></description></item><item><title>实验室博士生景琨的一篇论文在国际期刊Neurocomputing上发表</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/21-11-28-search/</link><pubDate>Sun, 28 Nov 2021 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/21-11-28-search/</guid><description>&lt;p>2021年11月，实验室博士生景琨一篇神经架构搜索相关的论文“A Neural Architecture Generator for Efficient Search Space”在国际期刊Neurocomputing（中科院二区期刊）上在线发表。&lt;/p>
+&lt;p>论文标题和摘要如封面所示。&lt;/p></description></item><item><title>实验室与江苏恒旺数字科技有限责任公司开展合作</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/21-06-30-cooperation/</link><pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/21-06-30-cooperation/</guid><description>&lt;p>2021年7月，实验室与江苏恒旺数字科技有限责任公司签订项目合作协议，双方共同打造煤化工行业人工智能开发平台。煤化工行业人工智能开发平台基于自动机器学习、迁移学习和元学习等前沿技术打造，支持煤化工行业多个人工智能场景应用的定制开发，利用该平台，煤化工企业信息管理人员无需编码（或极少量代码）即可轻松打造自己企业的AI应用，大大提高了AI应用开发周期，提高了AI应用部署效率，节省了AI应用开发成本。&lt;/p>
+&lt;p>实验室在自动机器学习领域有多年的技术积累，在神经架构搜索领域发表了多篇高水平论文，同时获得了2020年度“中国科学院先导杯大赛”神经架构搜索赛道的优胜奖。&lt;/p>
+&lt;p>江苏恒旺数字科技有限责任公司是内蒙古广纳煤业集团（http://www.guangnajituan.com/index.html）下属的全资科技公司，在煤化工企业数字化领域积累的丰富的实践经验，实施的很多企业应用处于行业领先定位。&lt;/p></description></item><item><title>实验室与中国气象科学研究院开展合作</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/21-04-30-air/</link><pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/21-04-30-air/</guid><description>&lt;p>2021年4月，实验室与中国气象科学研究院“灾害天气国家重点实验室”刘黎平研究员团队建立合作关系，基于深度学习算法，开展基于气象雷达回波图像的降水估测外推方法研究。实验室之前在2020年人工智能天气预报创新大赛中，由实验室博士生景琨、硕士生陈洛宇组成的“CCIP449”队获得二等奖，同时获得技术创新奖，实验室在气象AI算法研发上具有强大的技术实力，这也是促成双方合作的主要原因。&lt;/p>
+&lt;p>降水预测结果如封面所示。&lt;/p></description></item><item><title>实验室“CCIP449队”获2020人工智能天气预报创新大赛二等奖</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/20-12-08-ccip/</link><pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/20-12-08-ccip/</guid><description>&lt;p>在2020年12月4日结束的2020人工智能天气预报创新大赛中，由实验室博士生景琨、硕士生陈洛宇组成的“CCIP449”队获得二等奖，同时获得技术创新奖，预报成果受到上海市气象局首席预报员戴建华的高度肯定，对两位同学表示祝贺！&lt;/p>
+&lt;p>此次人工智能天气预报创新大赛由上海市气象学会主办、上海进博会气象台承办，以“智慧气象，服务进博，创新发展，示范引领”为主题，以攻克“降水过程的短临预测”这一国际性难题为目标，将上海及长三角洲地区的历史降水过程为预报对象，根据过去一小时的雷达回波图像数据预测未来2小时的雷达回波（反映降水情况）图像的连续变化。此次大赛参赛队伍有100多支，最后初赛成绩最好的10支队伍进入决赛。&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>实验室博士生王义宇、硕士生邱柏瑜在“ECV2020极市计算机视觉开发者榜单赛”中获奖</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/20-10-23-competition/</link><pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/20-10-23-competition/</guid><description>&lt;p>在2020年8月31日结束的“ECV2020极市计算机视觉开发者榜单活动”中，实验室博士生王义宇、硕士生邱柏瑜组队（Curya）在后厨老鼠识别赛道中获得第四名（前三名空缺），并于2020年10月17日在中国模式识别与计算机视觉大会（PRCV2020）上参加了极市平台分论坛及颁奖典礼，对他们表示祝贺！&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>实验室“CCIP449”队获中科院先导杯并行计算应用大奖赛神经网络架构搜索赛道优胜奖</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/20-09-01-ccip/</link><pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/20-09-01-ccip/</guid><description>&lt;p>在2020年8月26日结束的中科院先导杯并行计算应用大奖赛中，由实验室博士生景琨、硕士生陈洛宇组成的“CCIP449”队获神经网络架构搜索赛道优胜奖，对两位同学表示祝贺！&lt;/p></description></item><item><title>实验室徐俊刚老师与奥地利科学家们进行交流</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/19-11-23-chat/</link><pubDate>Sat, 23 Nov 2019 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/19-11-23-chat/</guid><description>&lt;p>2019年11月22日下午，实验室徐俊刚老师在中科院计算所四层报告厅参加了奥地利驻华大使馆科技处与奥地利驻上海总领事馆商务处举办的中奥科学家交流对接会，与奥地利信息与通讯技术专家代表团成员进行了技术交流，包括奥地利国家研究所的Helmut Leopold教授、维也纳 Technikum 应用技术大学的KAUFMANN、ECKKRAMMER、MENSE教授、林茨约翰开普勒大学Johannes Kofler副教授、维也纳技术大学的Margrit Gelautz教授以及Simple-AI 公司的Guodong Wang博士。徐俊刚老师与各方在自动机器学习、计算机视觉等领域进行了深入交流，双方期待今后在学生培养、项目申报等方面开展进一步的沟通和合作。&lt;/p></description></item><item><title>实验室博士生李鹏飞、景琨参加浙江“百名博士杭州行”活动</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/19-11-12-activity/</link><pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/19-11-12-activity/</guid><description>&lt;p>2019年11月9日-10日，实验室博士生李鹏飞、景琨参加了浙江“百名博士杭州行”活动，并与当地企业进行了对接和交流。&lt;/p>
+&lt;p>活动介绍：浙江“百名博士杭州行”活动，希望从中科院遴选100名博士研究生，参加11月9日-10日在杭州召开的“杭州人才与项目合作大会”，并对接企业项目。该活动由杭州市组织，旨在吸引博士研究生与浙江的企业合作，共同研发可落地的成果，并促成一部分博士研究生毕业后到杭州工作。&lt;/p></description></item><item><title>实验室林姝老师和赵胜剑赴新西兰奥克兰参加ITSC2019国际会议</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/19-11-01-meeting/</link><pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/19-11-01-meeting/</guid><description>&lt;p>2019年10月26日-31日，实验室林姝老师和赵胜剑同学赴新西兰奥克兰参加了ITSC2019（2019 IEEE Conference on Intelligent Transportation Systems），并做了题为” Time series traffic prediction via hybrid neural networks”口头报告。ITSC国际会议是智能交通系统领域的著名会议，每年举办一次。&lt;/p></description></item><item><title>实验室徐俊刚老师当选中国人工智能学会智能服务专委会常务委员</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/19-09-30-elected/</link><pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/19-09-30-elected/</guid><description>&lt;p>2019年9月28日到29日，实验室徐俊刚老师前往常州参加了2019中国智能技术与大数据会议，并在28日晚上举行的中国人工智能学会智能服务专委会会议上当选为常务委员。&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>实验室博士生王义宇赴德国慕尼黑参加ICANN2019国际会议</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/19-09-22-meeting/</link><pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/19-09-22-meeting/</guid><description>&lt;p>2019年9月16日-20日，实验室博士生王义宇赴德国慕尼黑参加了ICANN2019（2019 International Conference on Artificial Neural Networks）国际会议，在会议过程中听取了多场报告，并展示了论文海报。&lt;/p>
+&lt;p>论文海报如封面所示。&lt;/p></description></item><item><title>实验室刘仁峰、冉晏华、范洋同学通过硕士论文答辩</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/19-05-15-defense/</link><pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/19-05-15-defense/</guid><description>&lt;p>2019年5月13日，实验室在国科大中关村校区举行了刘仁峰、冉晏华、范洋三位同学的硕士论文答辩会，答辩会主席由中国科学院大学孙应飞教授担任，答辩会成员包括徐俊刚、马龙龙、何苯、林姝，答辩会秘书景琨。各位专家听取了三位同学的论文报告，经无记名投票，一致同意通过三位同学的硕士论文答辩，并建议授予硕士学位。
+对三位同学表示祝贺！&lt;/p>
+&lt;p>答辩会会后合影：&lt;br/>
+封面左起依次为：林姝、孙应飞、刘仁峰、徐俊刚、何苯、马龙龙
+&lt;figure id="figure-左起依次为林姝孙应飞何苯冉晏华徐俊刚马龙龙">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured2.png" alt="左起依次为：林姝、孙应飞、何苯、冉晏华、徐俊刚、马龙龙" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+左起依次为：林姝、孙应飞、何苯、冉晏华、徐俊刚、马龙龙
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;p>
+&lt;figure id="figure-左起依次为林姝孙应飞范洋徐俊刚何苯马龙龙">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured3.png" alt="左起依次为：林姝、孙应飞、范洋、徐俊刚、何苯、马龙龙" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+左起依次为：林姝、孙应飞、范洋、徐俊刚、何苯、马龙龙
+&lt;/figcaption>&lt;/figure>
+&lt;/p></description></item><item><title>实验室徐俊刚老师主持的北京科技计划课题顺利通过验收</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/19-03-01-topic/</link><pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/19-03-01-topic/</guid><description>&lt;p>2019年2月27日，北京市科委组织召开了北京脑科学研究专项课题“基于动态自组织记忆网络的智能推理系统研发”验收会，课题负责人徐俊刚老师汇报了课题研究成果，李航航演示了课题研发的软件系统。经专家组质询和评议，一致同意通过课题验收！&lt;/p>
+&lt;p>课题参研单位包括中国科学院大学、北京中兴通网络科技股份有限公司，课题参研人员主要有徐俊刚、董纪昌、苏诠惠、刘红、刘颖、李秀婷、邓智斌、潘磊、李照平、李鹏飞、李航航、景琨、王义宇、李泽西、刘晓婷、边靖宸等人&lt;/p></description></item><item><title>实验室徐俊刚老师在北京市语言学会第13届学术年会上做大会报告</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/18-11-20-report/</link><pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/18-11-20-report/</guid><description>&lt;p>2018年11月17日，实验室徐俊刚老师受邀在北京市语言学会第13届学术年会上做了“机器阅读理解最新技术解读”的大会报告，受到与会者的关注。会后与北京语言大学副校长张旺喜教授，北京语言大学王治敏教授、黄伟副教授，北京师范大学龚高浪教授等专家进行了交流。&lt;/p></description></item><item><title>实验室范洋同学赴希腊参加了ICTAI2018国际会议</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/18-11-09-meeting/</link><pubDate>Fri, 09 Nov 2018 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/18-11-09-meeting/</guid><description>&lt;p>2018年11月3日- 7日，实验室范洋同学赴希腊沃洛斯参加了ICTAI2018（30th International Conference on Tools with Artificial Intelligence）国际会议，并做了题为“Long-term Recurrent Merge Network Model for Image Captioning”的口头报告。&lt;/p></description></item><item><title>实验室承办第一届中国医学智能大会暨第一届雁栖人工智能论坛</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/18-09-25-forum/</link><pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/18-09-25-forum/</guid><description>&lt;p>2018年9月22日至23日,“2018中国医学人工智能大会暨第一届人工智能雁栖高端论坛”在中国科学院大学（以下简称“国科大”）雁栖湖校区举行，中国科学院院士、国科大副校长徐涛研究员，中国科学院院士、北京大学程和平教授，IEEE Fellow、国科大计算机与控制学院副院长、中国科学院计算技术研究所副所长陈熙霖研究员，IEEE Fellow、国科大计算机与控制学院副院长黄庆明教授，IEEE Fellow、中国科学院分子影像重点实验室主任田捷研究员，中华医学会放射学分会候任主任委员、上海长征医院影像医学与核医学科主任刘士远教授,浪潮集团副总裁、浪潮健康总裁高传贵，长江学者特聘教授、华西医院副院长龚启勇教授等150多位医学和人工智能领域的专家学者、企业界代表、研究生出席了本次大会。大会由中国人工智能学会、国科大、中国图像图形学学会、中国科学院计算技术研究所共同主办，国科大计算机与控制学院承办，国科大计算机与控制学院徐俊刚教授、中国科学院计算技术研究所赵地副研究员、北京邮电大学张成文副教授为大会主席。&lt;/p>
+&lt;p>徐涛在致辞中谈到，人工智能现在很火，国务院在2017年印发了“新一代人工智能发展规划”，人工智能上升为国家战略。作为新一轮产业变革的核心驱动力，人工智能向各个行业提供了强大的赋能作用。在众多行业中，医学具有数据密集型、知识密集型的特点，是非常有前景的人工智能应用领域，各个国家都很重视人工智能技术在医学领域的布局与应用。从去年到今年，我国也密集出台了许多医学人工智能方面的政策与法规，大大推动了我国医学人工智能产业的发展。&lt;/p>
+&lt;p>徐涛还向与会者介绍了国科大在医学领域的发展情况。他介绍，国科大是一所以“博学笃志，格物明德”为校训、以科教融合为特色的创新型大学。今年正值建校40周年，本次大会也是重要的校庆活动之一。国科大在医学领域也有重大布局，2015年7月成立了存济医学院，由全国人大副委员长、中国科学院副院长丁仲礼院士任理事长；2018年7月，由国科大、中国疾病预防控制中心、中国卫生信息与健康医疗大数据学会三方共同成立了“中国科学院大学健康医疗大数据国家研究院”，共同研究健康医疗大数据采集标准和相关政策法规，培养复合型公共卫生人才。除此之外，国科大生命科学学院与北京大学共建国家生物医学成像设施；国科大计算机与控制学院和人工智能学院都坚持“科教融合、育人为本、协同创新、服务国家”的办学理念，聚焦人工智能领域核心科学和关键技术，面向国际科学前沿，拥有包括智能信息处理、脑认知与智能医学在内的多个教研室和实验室。徐涛说：“值此校庆来临之际，感谢各位与会者的到来。我们希望在医学人工智能方面与在座的各位专家展开深入合作！”
+&lt;figure id="figure-徐涛致辞">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured2.png" alt="徐涛致辞" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+徐涛致辞
+&lt;/figcaption>&lt;/figure>
+从1950年图灵在《计算机器与智能》一文中提出人工智能与图灵测试以来，人工智能技术取得了长足的发展。2012年，基于深度学习的方法以绝对优势获得ImageNet图像分类竞赛冠军，2016年AlphaGo战胜国际知名围棋棋手李世石，更是确定了人工智能在人类社会发展中的重要地位。人工智能与各领域的结合不断加强，相互促进，推动了许多新兴学科的发展，医学人工智能也应运而生。&lt;/p>
+&lt;p>&lt;strong>&lt;div align="center">生物医学大科学装置将落地怀柔科学城&lt;/div>&lt;/strong>
+“我们希望能够对生命体结构与功能进行跨尺度的可视化描绘与精确测量”，中国科学院院士程和平教授在报告中提到即将在北京怀柔科学城建成的生物医学类大科学装置——多模态跨尺度生物医学成像设施。该设施是在国家发改委、教育部、中国科学院、北京市的大力支持下，联合多家单位与优势力量，共同推动申报与筹建的。该项目在2016年12月被正式列为《国家重大科技基础设施建设“十三五”规划》10个优先建设项目之一，将在北京怀柔科学城集中建设。
+&lt;figure id="figure-程和平作报告">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured3.png" alt="程和平作报告" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+程和平作报告
+&lt;/figcaption>&lt;/figure>
+从分子到个体，该设施能够根据不同的成像模态获取不同的结构、功能和组成要素，从而更直观地展示相关的生命信息。我们期待着这一宏大项目的竣工，也期待着多模态跨尺度生物医学成像设施为破解生命与疾病的奥秘做出贡献。
+&lt;figure id="figure-多模态跨尺度生物医学成像设施初步建设方案">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured4.png" alt="多模态跨尺度生物医学成像设施初步建设方案" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+多模态跨尺度生物医学成像设施初步建设方案
+&lt;/figcaption>&lt;/figure>
+该装置所在地——怀柔科学城，坐落于长城脚下、雁栖湖畔。科学城以大科学装置集群和前沿科技交叉研究平台为核心，同时建设四个核心区。其中的科学教育区即包含国科大雁栖湖校区。怀柔科学城的建成，将更加有力地支撑国科大的教学科研工作。
+&lt;figure id="figure-怀柔科学城科学教育区国科大雁栖湖校区">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured5.png" alt="怀柔科学城科学教育区——国科大雁栖湖校区" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+怀柔科学城科学教育区——国科大雁栖湖校区
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>&lt;div align="center">人工智能为医学赋能&lt;/div>&lt;/strong>
+“人工智能的职能是为医生赋能”，南京信息工程大学徐军教授在大会报告中提到。发挥人工智能的优势，提高医疗诊断与治疗的效率和准确率是医学人工智能的出发点与落脚点。&lt;/p>
+&lt;p>以上海长征医院主任医师刘士远教授报告中提到的肺结节辅助诊断为例，通过大数据的学习，人工智能可以对肺结节CT影像进行智能检测与识别，一方面能够代替医疗人员进行重复性的工作，提高效率，另一方面也能帮助医生提高诊断的准确度。
+&lt;figure id="figure-刘士远作报告">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured6.png" alt="刘士远作报告" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+刘士远作报告
+&lt;/figcaption>&lt;/figure>
+除了医学影像，人工智能在病例分析、精准手术、药物挖掘、医疗风险分析等方面也起到了重要作用。 清华大学廖宏恩教授研发的微创诊疗机器人，它有定向定位操作，又有可视功能，将来应用空间广阔。&lt;/p>
+&lt;p>&lt;strong>&lt;div align="center">人工智能帮助医生看得更清、更远&lt;/div>&lt;/strong>
+中国科学院分子影像重点实验室主任田捷研究员在报告中提到，通过复杂的非线性运算，人工智能可以“看到”医学影像中更加复杂的一些新特征：小波、纹理、强度、模式……这些特征在人眼看来可能是没有意义的，但是对于深度神经网络来说，这些特征便是医疗诊断的关键，最终将疾病的特性联系起来。对CT、核磁等医疗影像来说，人眼只能识别轮廓、形状、大小这样有明确意义的特征，但对高维度的特征，人眼是无法识别的。同时，影像仪器为了方便医生，会将原始图像进行处理，这个处理过程会导致信息的改变或者损失。如果减少对原始影像的处理步骤，直接将原始的信息交给人工智能去解读、计算、分析，结果将会更加精准。从临床反馈来看，同是结直肠癌的淋巴转移预测，使用人工智能阅片可以将假阳性率从百分之七十降低到百分之三十。&lt;/p>
+&lt;p>毫无疑问，人工智能能帮助医生看得更清、更远。
+&lt;figure id="figure-田捷作报告">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured7.png" alt="田捷作报告" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+田捷作报告
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>&lt;div align="center">人工智能助力多模态诊疗&lt;/div>&lt;/strong>
+在传统影像学里，精神分裂患者的头部CT与MRI等检查结果看起来往往与健康人群无异。因此，医生很难借助传统的影像辅助检查方式帮助确诊，更不必说辅助治疗了。那么，精神分裂患者是否存在可观测的脑部生理结构改变？通过“多模磁共振”技术，华西医院给出了肯定的答案。
+&lt;figure id="figure-龚启勇作报告">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured8.png" alt="龚启勇作报告" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+龚启勇作报告
+&lt;/figcaption>&lt;/figure>
+华西医院龚启勇副院长在会后访谈中提到，华西医院已经在应用多模磁共振的研究成果，尤其是用于精神疾病患者的诊断与疗效评价。不仅如此，多模磁共振技术还可以识别出各项功能活动对应的脑部区域位置。未来，医学还可能采用靶向电极，精准刺激病变点的方式，对精神疾病进行干预治疗。&lt;/p>
+&lt;p>据了解，多模磁共振技术的核心便是使用人工智能将不同的影像序列融合在一起，让深度神经网络从多种不同的信息中提取、组合特征，提高诊断的准确率。也就说，面对病情复杂的患者，医生需要大量不同的影像和诊疗报告才能确定病情，然而这个工作量是巨大的，准确率也不一定高。但是有了人工智能的支持，今后只需要将病人的各类核磁图像输入计算机，便可以在短时间内得到一个置信度高的结果。&lt;/p>
+&lt;p>&lt;strong>&lt;div align="center">医学人工智能研究中的国科大声音&lt;/div>&lt;/strong>
+国科大以“科教融合、育人为本、协同创新、服务国家”为办学理念，与中国科学院直属研究机构（包括所、院、台、中心等）在管理体制、师资队伍、培养体系、科研工作等方面高度融合。国科大与全国各地116个培养单位“共建、共治、共享、共赢”。近年来，随着科教融合的不断深化，国科大已依托京内外高水平培养单位成立了38个科教融合学院。&lt;/p>
+&lt;p>中国科学院深圳先进技术研究院（以下简称“深圳先进院”）是国科大的培养单位之一。国科大研究生导师、深圳先进院研究员梁栋在报告中谈到了传统MRI（磁共振成像）全脑血管壁成像的问题：“传统MRI所需时间较长，对于患者来说始终保持静止较难做到，尤其是对于患有幽闭恐惧症的患者，而轻微的移动又会降低采样的精度。”针对这个问题，梁老师提出了目前课题组的研究方案：通过人工智能算法，缩短了MRI所需时间，并将二维成像转化为三维成像，更加准确与直观地呈现出全脑血管壁的影像。这些研究工作目前已申请了多项专利，其中不少技术已经应用到了临床实践中。
+&lt;figure id="figure-梁栋作报告">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured9.png" alt="梁栋作报告" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+梁栋作报告
+&lt;/figcaption>&lt;/figure>
+同样，孵化于中国科学院自动化研究所智能医学研究中心的中国科学院分子影像重点实验室也在医学影像领域做出了积极贡献。在实验室主任、国科大博士生导师田捷研究员的带领下，实验室在分子影像、功能影像、医学影像分析与处理、智能医学等相关领域的基础理论研究、关键技术研发、成果推广应用、专业人才培养等方面都取得了丰硕的成果。&lt;/p>
+&lt;p>无论是医学还是人工智能，或是医学+人工智能，国科大都在积极发出自己的声音，为医疗行业不断注入新的力量。未来，国科大将继续聚焦于人工智能在医学及其他领域的研究与应用，不断探索创新，为解决实际问题提供“国科大方案”。&lt;/p>
+&lt;p>9月23日下午7点，大会共同主席徐俊刚教授宣布历时两天的“2018中国医学人工智能大会”胜利闭幕。&lt;/p></description></item><item><title>实验室徐俊刚老师当选中国计算机学会人工智能与模式识别专委会委员</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/18-08-10-elected/</link><pubDate>Fri, 10 Aug 2018 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/18-08-10-elected/</guid><description>&lt;p>2018年8月5日-9日，实验室徐俊刚老师参加了在济南举行的第七届中国数据挖掘会议，并在8月7日晚举行的中国计算机学会人工智能与模式识别专委会工作会议上当选为专委会正式委员。&lt;/p></description></item><item><title>实验室王琦、金灿灿同学通过硕士论文答辩</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/18-05-18-defense/</link><pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/18-05-18-defense/</guid><description>&lt;p>2018年5月16日，实验室在国科大中关村校区举行了王琦、金灿灿同学的硕士论文答辩会，答辩会主席由中国科学院大学孙应飞教授担任，答辩会成员包括徐俊刚、韩先培、何苯、林姝，答辩会秘书李鹏飞。各位专家听取了两位同学的论文报告，经无记名投票，一致同意通过两位同学的硕士论文答辩，并建议授予硕士学位。
+对两位同学表示祝贺！&lt;/p>
+&lt;p>答辩会会后合影：&lt;br/>
+封面左起依次为：李鹏飞、林姝、孙应飞、王琦、徐俊刚、何苯、韩先培
+&lt;figure id="figure-左起依次为林姝徐俊刚孙应飞金灿灿何苯韩先培李鹏飞">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured2.png" alt="左起依次为：林姝、徐俊刚、孙应飞、金灿灿、何苯、韩先培、李鹏飞" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+左起依次为：林姝、徐俊刚、孙应飞、金灿灿、何苯、韩先培、李鹏飞
+&lt;/figcaption>&lt;/figure>
+&lt;/p></description></item><item><title>实验室金灿灿同学的论文被顶级国际会议ACL 2018录用</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/18-03-26-paper/</link><pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/18-03-26-paper/</guid><description>&lt;p>近日，实验室金灿灿同学的论文”TDNN: A Two-stage Deep Neural Network for Prompt-independent Automated Essay”被国际顶级会议ACL 2018录用，论文指导老师为何苯副教授。ACL会议是自然语言处理领域的国际顶级会议，也是CCF推荐的人工智能领域的A类国际会议。对金灿灿同学和何苯老师表示祝贺！&lt;/p></description></item><item><title>实验室徐俊刚老师及黄珊珊、刘仁峰同学参加IEEE BigData 2017国际会议</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/17-12-20-meeting/</link><pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/17-12-20-meeting/</guid><description>&lt;p>2017年12月11日-14日，IEEE BigData 2017国际会议在美国波士顿如期举行，会议网址http://cci.drexel.edu/bigdata/bigdata2017/。实验室徐俊刚老师及硕士生黄珊珊、刘仁峰同学参加了此次会议。IEEE BigData 全称是IEEE International Conference on BigData，是大数据领域的顶级国际学术会议，会议中Regular Paper录用率近五年都在15%~20%之间，今年的会议有1000多人参会。此外，30多个大数据相关Workshop也同BigData2017会议一同举办。实验室论文“A Novel Compression Algorithm Decision Method for Spark Shuffle Process”被Workshop on Benchmarking, Performance Tuning and Optimization for Big Data Applications (BPOP)接收，黄珊珊同学在会上做了该论文的口头报告，并回答了问题。徐俊刚老师与大会共同主席Xiaoha Tony Hu（胡小华）以及其他知名学者JianYun Nie（聂建云）、Jiaqi Gong（龚嘉琦）等进行了交流。&lt;/p>
+&lt;p>会议间隙，徐俊刚老师还带领黄珊珊、刘仁峰同学参观了著名学府MIT（麻省理工学院），体验了世界一流名校的学习氛围和科研环境。&lt;/p>
+&lt;p>
+&lt;figure id="figure-黄珊珊同学作报告">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured2.png" alt="黄珊珊同学作报告" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+黄珊珊同学作报告
+&lt;/figcaption>&lt;/figure>
+&lt;/p></description></item><item><title>实验室王琦同学参加“中国科学院智能科普联盟科普天津行”活动</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/17-12-01-activity/</link><pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/17-12-01-activity/</guid><description>&lt;p>2017年11月23至25日，中国科学院智能科学与技术科普联盟联合首都科技志愿服务联合会、天津中科智能识别产业技术研究院组织开展了“京津冀协同创新志愿服务天津行”活动。本次活动旨在通过科技创新领域交流会、科技型企业走访调研、科普知识进校园等形式，对接当地政府、科技型企业、院校等服务需求，建设京津协同创新志愿服务平台，优化科技创新创业环境。&lt;/p>
+&lt;p>中国科学院智能科普联盟志愿者们奔赴天津滨海新区，开展了“趣谈机器人”、“感受数据”、“超级计算机的故事”、“遥感技术与应用”、“液体君变形记”、“网络攻防战”六个主题科普活动，给天津市开发区国际学校和开发区第二小学的300余名学生带来了一堂堂别开生面的科普大课。志愿者们用平实的语言、有趣的互动、生动的事例、耐心的引导为学生们传递了中科院前沿科研成果，进一步揭开了科学家与科学故事的神秘面纱，力求宣传科学知识、普及科学常识、激发学习热情、树立科学理念，鼓励他们学习和钻研科学知识，用科技知识更好地建设家乡。&lt;/p>
+&lt;p>实验室王琦同学作为国科大的唯一一名志愿者前往天津市开发区第二小学，为同学们带来了“感受数据”的报告，以身边存在的数据为切入点，让学生感觉数据无处不在，介绍了当今热门的大数据和数据挖掘方向，点燃了学生的好奇心。随后对数据库的发展历史、现有的数据库软件和数据库的增删改查操作进行了讲解。通过“观电影-共合作-找实体、属性及其联系”的方式，加强了学生对数据库的理解，激发了学生开展数据库实践应用的积极性。&lt;/p>
+&lt;p>
+&lt;figure id="figure-王琦同学在作报告">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured2.png" alt="王琦同学在作报告" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+王琦同学在作报告
+&lt;/figcaption>&lt;/figure>
+&lt;/p></description></item><item><title>HPC China 2017会议“行业大数据论坛”新闻专题</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/17-10-26-forum/</link><pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/17-10-26-forum/</guid><description>&lt;p>2017年10月19-21日，由中国计算机学会主办，中国计算机学会高性能计算专业委员会、中国科学技术大学共同承办、北京并行科技股份有限公司协办的“2017年全国高性能计算学术年会”（HPC China 2017）在合肥召开, 会议网址: &lt;a href="http://hpcchina2017.csp.escience.cn/dct/page/1" target="_blank" rel="noopener">http://hpcchina2017.csp.escience.cn/dct/page/1&lt;/a>。大会主题为“应用驱动，生态共建”。实验室徐俊刚教授及硕士生刘仁峰参加了此次高性能计算学术年会。会议期间，徐俊刚教授组织并主持了“行业大数据论坛”，邀请学术界和工业界的多位专家学者、资深从业人员作了主题报告，并围绕主题展开了热烈的讨论，促进了大数据领域的技术交流与合作。&lt;/p>
+&lt;p>&lt;strong>行业大数据论坛简介：&lt;/strong>&lt;br>
+全球数据在迅猛增长，IDC预测到2020年，全球数据将达到44ZB。在互联网大数据获得巨大价值之后，行业大数据应用开始进入爆发期，包括政务、金融、医疗、智能制造、公共安全等行业领域。本论坛聚焦行业大数据，从行业数据采集、存储、处理、分析、可视化及应用效果等方面研讨行业大数据处理技术和应用案例，以促进行业大数据领域的技术交流和合作。&lt;/p>
+&lt;p>&lt;strong>行业大数据论坛报告及讲者：&lt;/strong>&lt;br>
+&lt;strong>报告1：雷达气象大数据机器学习与精准降水估计&lt;/strong>&lt;br>
+&lt;strong>报告人简介：&lt;/strong>
+张文生，中国科学院自动化研究所研究员、博士生导师。中国科学院大学首席教授，中国科技大学讲座教授。国家重大专项目标识别与控制专家组专家、国防基础科研专家组专家，国家重点专项“云计算和大数据”总体专家组专家、“物联网与智慧城市”实施专家组专家，国家自然科学基金委评审专家。主持完成10余项国家重点项目，发表160余篇论文，获发明专利20余项。
+&lt;figure id="figure-张文生研究员作报告">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured2.png" alt="张文生研究员作报告" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+张文生研究员作报告
+&lt;/figcaption>&lt;/figure>
+&lt;strong>报告2：大数据创新与产业实践&lt;/strong>&lt;br>
+&lt;strong>报告人简介：&lt;/strong>
+赵勇，成都清数科技有限公司、第五位国际大数据孵化器，创始人/董事长。北京师范大学电子系学士、清华大学工学硕士、美国芝加哥大学计算机科学系博士，师从世界网格之父Ian Foster教授；先后任职于美国IBM全球研发中心、Argonne国家实验室，美国微软公司搜索与广告部，获微软杰出员工奖；曾组建清华大学苏州研究院大数据处理中心，并任技术总监。中国计算机学会大数据专家委员会委员、清华大数据产业联合会西部分会会长、中国西部互联网与大数据产业分会会长、四川大数据产业联盟主席、电子科技大学极限网络计算与服务实验室主任、对外经济贸易大学客座教授、四川省“千人计划”专家，著有《架构大数据》、《大数据革命》、《大数据·数据管理与数据工程》等十三部著作。
+&lt;figure id="figure-赵勇董事长作报告">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured3.png" alt="赵勇董事长作报告" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+赵勇董事长作报告
+&lt;/figcaption>&lt;/figure>
+&lt;strong>报告3：深度学习与医学影像分析&lt;/strong>&lt;br>
+&lt;strong>报告人简介：&lt;/strong>
+赵地，中国科学院计算机网络信息中心（CNIC）百人计划，副研究员。获美国路易斯安娜理工大学（Louisiana Tech University）计算机与应用数学专业博士学位。曾在美国哥伦比亚大学（Columbia University）医学中心和美国俄亥俄州立大学（The Ohio State University）医学中心从事博士后研究工作。主持了北京市自然科学基金重点项目一项，参与2项北京市科委“脑科学研究”专项的研究工作。发表杂志与会议论文二十余篇。现为中国图象图形学学会视觉大数据专业委员会委员，CCF会员，中国研究型医院学会移动医疗专业委员会委员，中国医学装备协会智能装备技术分会第一届委员。《Annals of Multi-core and GPU Programming》杂志编委，CNIC-英伟达公司GPU研究中心（GRC）与CNIC-英伟达公司“智慧医疗”联合实验室的负责人。
+&lt;figure id="figure-赵地老师学生作报告">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured4.png" alt="赵地老师学生作报告" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+赵地老师学生作报告
+&lt;/figcaption>&lt;/figure>
+&lt;strong>报告4：工业大数据遇到人工智能&lt;/strong>&lt;br>
+&lt;strong>报告人简介：&lt;/strong>
+武星，博士，副教授，现任上海大学计算机科学与技术系副主任，主要研究领域为人工智能、大数据挖掘、计算机图像、视频分析与处理。2008年至2009年作为客员研究员在日本立命馆大学进行科研工作，2016年在澳大利亚阿德莱德大学进行博士后研究工作。主持国家自然科学基金项目一项、参与两项；主持省部级项目四项。主编科研专著一本《大数据测评》，发表SCI/EI/ISTP索引论文50余篇，中国发明专利授权一项，申请四项，软件著作权一项。
+&lt;figure id="figure-武星老师作报告">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured5.png" alt="武星老师作报告" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+武星老师作报告
+&lt;/figcaption>&lt;/figure>
+&lt;strong>报告5：基于大数据的在线地图服务模式改造&lt;/strong>&lt;br>
+&lt;strong>报告人简介：&lt;/strong>
+张传明，博士，现任百度资深软件工程师，百度定位开放平台技术负责人、地图技术委员会负责人、主席。
+&lt;figure id="figure-张传明博士作报告">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured6.png" alt="张传明博士作报告" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+张传明博士作报告
+&lt;/figcaption>&lt;/figure>
+&lt;strong>报告6：海量轨迹数据分析&lt;/strong>&lt;br>
+&lt;strong>报告人简介：&lt;/strong>
+金澈清，华东师范大学教授，博士生导师，中国计算机学会数据库专委会委员。研究兴趣主要包括数据流管理、基于位置的服务、不确定数据管理等。主持多项国家自然科学基金；已出版英文专著1部、参与翻译《海量数据分析前沿》和《Hadoop权威指南》（第2版和第3版）；发表论文80余篇，其中多篇论文获得优秀论文奖励，包括《计算机学报》优秀论文奖、上海市计算机学会普适计算与嵌入式最佳论文奖等。曾获得霍英东教育基金会青年教师奖。
+&lt;figure id="figure-金澈清教授作报告">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured7.png" alt="金澈清教授作报告" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+金澈清教授作报告
+&lt;/figcaption>&lt;/figure>
+&lt;strong>报告7：百度AI智能云技术产品全景初探&lt;/strong>&lt;br>
+&lt;strong>报告人简介：&lt;/strong>
+熊亮，百度资深AI产品经理，具有超过10年的产品设计经验。
+&lt;figure id="figure-熊亮经理做报告">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured8.png" alt="熊亮经理做报告" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+熊亮经理做报告
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;p>&lt;strong>会议现场照片：&lt;/strong>&lt;br>
+&lt;figure id="figure-会议现场1">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured9.png" alt="会议现场1" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+会议现场1
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-会议现场2">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured10.png" alt="会议现场2" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+会议现场2
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-会议现场3">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured11.png" alt="会议现场3" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+会议现场3
+&lt;/figcaption>&lt;/figure>
+&lt;/p></description></item><item><title>实验室在国科大国际会议中心召开研讨会</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/17-08-05-seminar/</link><pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/17-08-05-seminar/</guid><description>&lt;p>2017年7月25日，实验室在国科大国际会议中心召开了实验室研讨会，就实验室的科研工作、未来发展进行了研讨。参会的老师有实验室徐俊刚教授、何苯副教授、北京理工大学张文耀副教授、国科大刘慧老师，参会的同学有实验室博士研究生李鹏飞、李帅敏，硕士研究生王琦、刘仁峰、范洋、黄珊珊（客座）、刘昊、刘思远、边靖辰、高红（客座），参会的还有实验室聘用人员李航航以及来自山东师范大学的王天一、青岛理工大学张明睿、施文强和石油大学的兰阳四位参加国科大大创计划项目的同学。&lt;/p>
+&lt;p>首先，徐俊刚教授对实验室现状进行了介绍，对实验室的研究课题、在研项目进行了说明，并结合当前全球研究热点，对实验室的未来发展做了详细的规划；其次，实验室各位同学和工作人员对自己的研究工作进行了介绍，并进行了讨论，北京理工大学的张文耀老师也对实验室的研究工作和发展提出了自己的建议；最后，徐俊刚教授做了关于机器学习理论和应用的总结报告。&lt;/p>
+&lt;p>通过本次研讨会，更加明确了实验室的发展方向，并制订了到2020年的发展计划，对实验室的发展起到了很好的促进作用。&lt;/p>
+&lt;p>
+&lt;figure id="figure-参会人员合影">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured2.png" alt="参会人员合影" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+参会人员合影
+&lt;/figcaption>&lt;/figure>
+&lt;/p></description></item><item><title>实验室王国路、杨陈皓同学通过硕士论文答辩</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/17-05-23-defense/</link><pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/17-05-23-defense/</guid><description>&lt;p>2017年5月11日，实验室在国科大中关村校区举行了王国路、杨陈皓同学的硕士论文答辩会，答辩会主席由中国科学院信息工程研究所王斌研究员担任，答辩会成员包括徐俊刚、王宁、韩先培、何苯，答辩会秘书李鹏飞，各位专家听取了两位同学的论文报告，经讨论并无记名投票，一致同意通过两位同学的硕士论文答辩，并建议授予硕士学位。
+对两位同学表示祝贺！&lt;/p>
+&lt;p>答辩会会后合影：&lt;br/>
+封面左起依次为：叶正、何苯、王斌、王国路、徐俊刚、王宁、韩先培、李鹏飞
+&lt;figure id="figure-左起依次为叶正徐俊刚王斌杨陈皓何苯王宁韩先培李鹏飞">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured2.png" alt="左起依次为：叶正、徐俊刚、王斌、杨陈皓、何苯、王宁、韩先培、李鹏飞" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+左起依次为：叶正、徐俊刚、王斌、杨陈皓、何苯、王宁、韩先培、李鹏飞
+&lt;/figcaption>&lt;/figure>
+&lt;/p></description></item><item><title>实验室与北京品智能量科技有限公司签订战略合作协议</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/17-01-06-cooperation/</link><pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/17-01-06-cooperation/</guid><description>&lt;p>2016年12月30日，实验室与北京品智能量科技有限公司签订战略合作协议，实验室将为公司汽车领域人工智能产品提供规划建议，并进行产品研发合作。&lt;/p></description></item><item><title>实验室徐俊刚老师与王国路同学参加HPCC2016学术会议</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-12-16-meeting/</link><pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-12-16-meeting/</guid><description>&lt;p>2016年12月12日-14日，HPCC2016在澳大利亚悉尼如期举行。实验室徐俊刚老师与硕士生王国路同学受邀参加了此次会议。HPCC2016是有IEEE computer society主办，由悉尼科技大学承办的国际学术会议，与此同时SmartCity2016及DSS2016作为联合会议同HPCC2016年一起举办。HPCC2016全称是The 18th IEEE International Conference on High Performance Computing and Communications 是高性能计算领域较高水平的国际学术会议，在CCF推荐会议列表中被推荐为C类会议。实验室徐俊刚老师与王国路同学的论文《A Novel Method for Tuning Configuration Parameters of Spark Based on Machine Learning》作为长文被会议接收，与会期间王国路同学将相关研究内容做了学术报告，并与参会的相关学者进行了探讨和交流。&lt;/p></description></item><item><title>实验室组织参加2016年全国高性能计算学术年会</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-11-02-meeting/</link><pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-11-02-meeting/</guid><description>&lt;p>2016年10月27日-30日，一年一度的全国高性能计算学术年会在古城西安举行。实验室徐俊刚老师及博士生李鹏飞、硕士生刘仁峰、李瑞楠、黄珊珊参加了此次高性能计算学术年会。通过参会，大家了解了高性能计算领域的最新研究成果和产品，增进了与学术界和工业界的交流。
+2016年全国高性能计算学术年会(HPC China 2016)由中国计算机学会主办，中国计算机学会高性能计算专业委员会、西安电子科技大学共同承办，北京并行科技股份有限公司协办。&lt;/p>
+&lt;p>会议网址：http://hpcchina2016.csp.escience.cn/dct/page/1&lt;/p></description></item><item><title>实验室参加的2016年国家重点研发计划“云计算与大数据”重点专项项目举行启动会</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-10-21-meeting/</link><pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-10-21-meeting/</guid><description>&lt;p>2016年10月18日，实验室徐俊刚老师参加的2016年国家重点研发计划“云计算与大数据”重点专项“科学大数据管理系统”项目在中国科学院计算机网络信息中心举行启动会。中国科学院院士郭华东、中国人民大学教授杜小勇、国家天文台空间部主任魏建彦、科技部高技术中心信息处处长傅耀威、中科院条财局信息化工作处处长陈明奇、中国科学院计算机网络信息中心党委书记、副主任韩华、副主任迟学斌等专家参加了会议。 实验室徐俊刚老师作为项目骨干，参加了本次会议。&lt;/p>
+&lt;p>中国科学院计算机网络信息中心新闻链接：http://www.cnic.cn/xwdt/zhxw/201610/t20161020_4682259.html
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>实验室徐俊刚老师与王琦同学参加“中国科学院智能科普联盟科普贵州行”活动</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-09-15-activity/</link><pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-09-15-activity/</guid><description>&lt;p>受贵州省委组织部、省科协、黔西南州委、州政府邀请，中科院智能科普联盟联合昆明分院一行20余名科普志愿者于2016年9月5日抵达贵州黔西南州（金州），开展为期一周的科普志愿行活动,实验室徐俊刚老师和王琦同学作为国科大的代表参加了此次活动。&lt;/p>
+&lt;p>9月6日上午，“创新放飞梦想，科技引领未来”黔西南州2016年全国科普日暨中国科学院智能科学与技术科普联盟科普志愿金州行活动启动仪式在兴义一中隆重举行。黔西南州委常委、组织部长顾先林同志致辞并宣布活动启动，贵州省科协巡视员路贵同志讲话，表达对中科院智能科普联盟入黔开展科普活动的欢迎和感谢。中科院自动化所副所长战超同志代表中科院智能科普联盟讲话，启动仪式由州人大副主任韦琼同志主持。&lt;/p>
+&lt;p>参加启动仪式的智能科普联盟成员单位包括自动化所、合肥物质院、重庆智能院、中科大、计算所和国科大六家成员单位。上午，全体志愿者在兴义一中分别进入主会场和六个班级，同步开展科普讲座和项目演示；下午，走进兴义八中和兴义民族师范学院等五个会场开展科普活动。6日全天，联盟志愿者开展科普报告和项目演示累计19场，受众人数近2000人。&lt;/p>
+&lt;p>国科大徐俊刚老师在主会场做了《机器人的昨天、今天、明天》的科普报告，徐老师以机器人的发展历史为切入点，讲解了机器人在不同领域的广泛应用以及机器人未来的发展方向。徐老师在报告中多次与在场学生互动，使同学们对机器人有了更深入的体会和了解。&lt;/p>
+&lt;p>在接下来几天科普活动中，联盟各成员单位分别为黔西南州师生进行了多次科学讲座和项目展示。国科大志愿者王琦同学为中小学学生们带来了“数据之美”项目，以身边存在的数据为切入点，让学生感觉数据无处不在，介绍了当今热门的大数据和数据挖掘方向，点燃了学生的好奇心。随后对现有的数据库软件、数据库软件的发展历史和数据库的增删改查操作进行了阐述。通过“观电影-共合作-找实体、属性及其联系”的方式，加强了学生对数据库的理解，激发了学生勇于实践应用的积极性。&lt;/p>
+&lt;p>此次“中国科学院智能科普联盟科普金州行”活动历时一周、深入到黔西南兴义、安龙、兴仁等5个市县，最大限度地把科学的种子播撒在黔西南的沃土上，让当地青少年零距离感受到科技的魅力，让他们树立科学理念，鼓励他们学习和钻研科学文化知识，将来用科技知识更好地建设祖国、建设家乡。&lt;/p>
+&lt;p>活动新闻链接：&lt;/p>
+&lt;ol>
+&lt;li>人民网：http://qxn.people.com.cn/n2/2016/0907/c362415-28966168.html&lt;/li>
+&lt;li>贵州省科学技术协会：http://www.gzast.org/xhxw/zyxw/4522.shtml&lt;/li>
+&lt;li>中国科学院：http://www.cas.cn/kx/gz/201609/t20160909_4574348.shtml
+&lt;figure id="figure-徐俊刚老师做机器人的昨天今天和明天报告">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured2.png" alt="徐俊刚老师做“机器人的昨天、今天和明天”报告" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+徐俊刚老师做“机器人的昨天、今天和明天”报告
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-徐俊刚老师在兴义民族师范学院">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured3.png" alt="徐俊刚老师在兴义民族师范学院" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+徐俊刚老师在兴义民族师范学院
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-王琦同学在做报告1">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured4.png" alt="王琦同学在做报告（1）" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+王琦同学在做报告（1）
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-王琦同学在做报告2">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured5.png" alt="王琦同学在做报告（2）" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+王琦同学在做报告（2）
+&lt;/figcaption>&lt;/figure>
+&lt;figure id="figure-活动合影">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured6.png" alt="活动合影" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+活动合影
+&lt;/figcaption>&lt;/figure>
+&lt;/li>
+&lt;/ol></description></item><item><title>实验室徐俊刚老师获2016年度中国科学院“朱李月华优秀教师奖”</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-09-01-price/</link><pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-09-01-price/</guid><description>&lt;p>近日，中国科学院公布2016年度“朱李月华优秀教师奖”的评审结果，实验室徐俊刚老师获奖，全院获此殊荣的研究生导师共有80名。 向徐老师表示祝贺！&lt;/p></description></item><item><title>实验室林姝老师获2017年国家自然科学基金面上项目资助</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-08-28-fund/</link><pubDate>Sun, 28 Aug 2016 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-08-28-fund/</guid><description>&lt;p>近日，国家自然科学基金委发布了2017年度国家自然科学基金项目资助的通知，实验室林姝副教授申请的面上项目《车联网环境的数据与模型联合驱动的城市路网预测控制算法研究》获得资助，向林老师表示祝贺！&lt;/p></description></item><item><title>徐俊刚教授赴贵安新区参加2016年中国大数据与人工智能院士论坛暨第二届贵州贵安智能终端产业创新发展峰会</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-06-08-forum/</link><pubDate>Sun, 28 Aug 2016 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-06-08-forum/</guid><description>&lt;p>2016年5月23日至24日，实验室徐俊刚教授赴贵安新区参加2016年中国大数据与人工智能院士论坛暨第二届贵州贵安智能终端产业创新发展峰会，并被聘为贵安战略性新兴产业研究院首批战略决策咨询委员会专家（共17位），向徐老师表示祝贺！&lt;/p>
+&lt;p>贵安新区简介：贵安新区是我国批准设立的第8个国家级新区，位于贵州省贵阳市和安顺市结合部，区域范围涉及贵阳、安顺两市所辖4县（市、区）20个乡镇，规划控制面积1795平方公里。贵安新区是黔中经济区核心地带，区位优势明显，地势相对平坦，人文生态环境良好，发展潜力巨大，具备加快发展的条件和实力。贵安新区未来将建设成为经济繁荣、社会文明、环境优美的西部地区重要的经济增长极、内陆开放型经济新高地和生态文明示范区。2016年5月，贵州贵安新区成为国务院首批双创“区域示范基地”。&lt;/p>
+&lt;p>会议新闻链接：http://www.gog.cn/zonghe/system/2016/05/24/014926658.shtml&lt;/p></description></item><item><title>何苯副教授赴南昌参加WAIM2016国际会议并作分会报告</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-06-07-report/</link><pubDate>Tue, 07 Jun 2016 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-06-07-report/</guid><description>&lt;p>2016年6月3日至5日，实验室何苯副教授赴南昌参加了WAIM2016(The 17th International Conference on Web-Age Information Management)国际会议，并做了题为“A Set-based Training Query Classification Approach for Twitter Search”的分会报告，受到与会者的关注。
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured2.png" alt="" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p></description></item><item><title>北京理工大学巫好同学获2016中国科学院大学生创新实践训练计划项目资助</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-06-06-fund2/</link><pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-06-06-fund2/</guid><description>&lt;p>2016年6月，中国科学院大学公布了2016年中国科学院大学生创新实践训练计划项目资助名单，北京理工大学计算机学院巫好同学获得资助，项目团队中还有沙赛、蔡新军和郝煜同学，项目名称为“小型云盘系统的设计与实现”，项目资助金额1.9万元，指导教师为实验室的徐俊刚教授以及北京理工大学的张文耀副教授。&lt;br>
+向李腾等五位同学表示祝贺！&lt;/p>
+&lt;p>巫好同学简介：&lt;br>
+巫好，女，1996年出生，四川德阳人，就读于北京理工大学计算机学院计算机科学与技术专业本科二年级。&lt;br>
+申请人成绩优秀，大一学年综合排名7/216，两学期分别获得人民一等奖学金、人民二等奖学金和国家励志奖学金；大二第一学期排名33/216，获得人民二等奖学金；此外曾获得优秀学生、优秀团干部等校级表彰。&lt;br>
+申请人对云计算和程序设计具有浓厚的兴趣，尤其关注实际运用，喜欢利用所学的专业知识进行科技创新，多次参与北京理工大学大学生创新训练项目和相关竞赛。&lt;/p></description></item><item><title>北京邮电大学李腾同学获2016年中国科学院大学生创新实践训练计划项目资助</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-06-06-fund/</link><pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-06-06-fund/</guid><description>&lt;p>2016年6月，中国科学院大学公布了2016年中国科学院大学生创新实践训练计划项目资助名单，北京邮电大学国际学院李腾同学获得资助，项目团队中还有朱昊、李丽玮、谢文睿和徐得星同学，项目名称为“大数据平台上的机器学习算法研究”，项目资助金额1.9万元，指导教师为实验室的何苯副教授。&lt;br>
+向李腾等五位同学表示祝贺！&lt;/p>
+&lt;p>李腾同学简介：&lt;br>
+李腾，男，1996年出生，江西赣州人，就读于北京邮电大学国际学院物联网工程专业本科二年级。&lt;br>
+申请人学习成绩优异，在大一大二两个学期排名均在年级前10%，平均分在87分左右，其中一些与计算机相关课程更是达到了90分及以上。申请人对算法和编程以及机器学习方面有着浓厚的兴趣，有着丰富的C、Java编程经验。&lt;/p></description></item><item><title>实验室陈红、马庆丽同学通过硕士论文答辩</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-05-21-defense/</link><pubDate>Sat, 21 May 2016 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-05-21-defense/</guid><description>&lt;p>2016年5月17日，实验室在国科大中关村校区举行了陈红、马庆丽同学的硕士论文答辩会，与会专家听取了两位同学的论文报告，经讨论并无记名投票，一致同意通过两位同学的硕士论文答辩，并建议授予硕士学位。对两位同学表示祝贺！&lt;/p>
+&lt;p>答辩会会后合影：&lt;br/>
+封面左起依次为：刘慧、李成华、徐俊刚、陈红、王斌、何苯、林姝
+&lt;figure id="figure-左起依次为刘慧李成华何苯马庆丽王斌徐俊刚林姝">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./featured2.png" alt="左起依次为：刘慧、李成华、何苯、马庆丽、王斌、徐俊刚、林姝" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+左起依次为：刘慧、李成华、何苯、马庆丽、王斌、徐俊刚、林姝
+&lt;/figcaption>&lt;/figure>
+&lt;/p></description></item><item><title>徐俊刚教授赴新西兰奥克兰参加PAKDD’2016国际会议</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-04-27-meeting/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-04-27-meeting/</guid><description>&lt;p>2016年4月18日至4月23日，实验室徐俊刚教授赴新西兰奥克兰参加了PAKDD’2016国际会议，做了题为“Multilevel Syntactic Parsing based on Recursive Restricted Boltzmann Machines and Learning to Rank”的分会报告。同时，听取了与会学者的报告并进行了交流，进一步了解了当前知识发现与数据挖掘领域的最新研究方向和研究成果。PAKDD（Pacific Asia Conference on Knowledge Discovery and Data Mining）国际会议是知识发现与数据挖掘领域的重要国际会议，至今已经举办20届。&lt;/p></description></item><item><title>何苯副教授当选国际学术期刊《Information Processing &amp; Management》编辑委员会委员</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-03-17-elected/</link><pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-03-17-elected/</guid><description>&lt;p>自2016年1月起，实验室何苯副教授应邀担任国际学术期刊《Information Processing &amp;amp; Management》编辑委员会委员，对何老师表示祝贺！&lt;br>
+《Information Processing &amp;amp; Management》编委会链接：http://www.journals.elsevier.com/information-processing-and-management/editorial-board/。&lt;/p>
+&lt;p>《Information Processing &amp;amp; Management》简介：&lt;br>
+《Information Processing &amp;amp; Management》，简称IPM，是信息科学、信息搜索、行为信息以及信息系统设计领域的国际知名期刊。期刊目前被SCI检索，影响因子1.265，属于中国计算机学会（CCF）推荐的B类期刊。&lt;/p></description></item><item><title>徐俊刚教授获2016年北京市自然科学基金面上项目资助</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-03-17-fund/</link><pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/16-03-17-fund/</guid><description>&lt;p>近日，北京市自然科学基金委员会发布了2016年度北京市自然科学基金申请项目资助决定的通知，实验室徐俊刚教授申请的面上项目《基于深度神经网络的文档建模方法研究》获得资助，向徐老师表示祝贺！&lt;/p>
+&lt;p>通知链接：http://bjnsf.org/nsf_tzgg/201603/t20160304_10366.html&lt;/p></description></item><item><title>北京理工大学孙莹同学获中国科学院大学生创新实践训练计划项目资助</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/15-11-27-fund/</link><pubDate>Fri, 27 Nov 2015 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/15-11-27-fund/</guid><description>&lt;p>2015年11月，中国科学院大学公布了2015年中国科学院大学生创新实践训练计划项目资助名单，北京理工大学软件学院孙莹同学获得资助，项目团队中还有胡梦颖和张琪同学，项目名称为“学术人百科的研究与实现”，指导教师为实验室的徐俊刚教授。&lt;br>
+向孙莹等三位同学表示祝贺！&lt;/p>
+&lt;p>孙莹同学简介：&lt;br>
+孙莹，女，1994年出生，山东烟台人，就读于北京理工大学软件学院软件工程专业本科三年级。多次获得一等奖学金和优秀学生标兵。对算法、数据结构以及编程有浓厚兴趣，喜欢用代码解决问题，多次参加程序设计竞赛并取得优秀的成绩：&lt;/p>
+&lt;p>校内：&lt;/p>
+&lt;ol>
+&lt;li>2014年北京理工大学程序设计新生赛三等奖&lt;/li>
+&lt;li>第九届北京理工大学华瑞世纪程序设计大赛二等奖&lt;/li>
+&lt;li>第九届北京理工大学华瑞世纪程序设计大赛最佳女队奖&lt;/li>
+&lt;li>2015年北京理工大学程序设计新生赛一等奖&lt;/li>
+&lt;li>第十届北京理工大学华瑞世纪程序设计大赛三等奖&lt;/li>
+&lt;/ol>
+&lt;p>校外：&lt;/p>
+&lt;ol>
+&lt;li>2015ACM国际大学生程序设计竞赛上海大都会赛最佳女队奖&lt;/li>
+&lt;li>2015CoderCup编程世界杯赛铜奖&lt;/li>
+&lt;li>第六届蓝桥杯全国软件和信息技术专业大赛北京赛区C/C++程序设计大学A组一等奖&lt;/li>
+&lt;li>第六届蓝桥杯全国软件和信息技术专业大赛全国总决赛C/C++程序设计大学A组二等奖&lt;/li>
+&lt;/ol></description></item><item><title>徐俊刚教授与王国路同学参加2015年CCF高性能计算学术年会</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/15-11-13-meeting/</link><pubDate>Fri, 13 Nov 2015 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/15-11-13-meeting/</guid><description>&lt;p>2015年11月9日-12日，一年一度的CCF高性能计算学术年会在美丽的太湖之滨无锡举行。实验室徐俊刚教授和王国路同学参加了此次高性能计算学术年会。&lt;/p>
+&lt;p>全国高性能计算学术年会创办于2005年，至今已成功举办十届。2015年全国高性能计算学术年会（HPC China 2015）由中国计算机学会主办，北京中科超算信息咨询有限公司、国家超级计算无锡中心（筹）协办，中国计算机学会高性能计算专业委员会、江南大学共同承办。本届年会逾900人参会，40多家科研院所、厂商参展，年会围绕着高性能计算技术的研究进展与发展趋势、高性能计算的重大应用等主题展开，促进信息化与工业化的深度融合，为相关领域的学者提供交流合作、发布最前沿科研成果的平台，推动中国高性能计算的发展。&lt;/p>
+&lt;p>本次会议邀请了美国HPC Advisory Council的加盟，同期举行了包括大数据系统评测与优化研究案例论坛、ARM服务器生态论坛、高性能互连网络论坛等20余个形式多样、不同主题的论坛，会议期间还召开了“CO-DESIGN”国际研讨会，并进行了2015全国并行应用挑战赛决赛。&lt;/p>
+&lt;p>实验室云和大数据处理研究方向与年会紧密相关，通过参加此次年会了解了世界前沿的研究方向和成果，并和一些专家学者建立了联系，对于进一步提升实验室的研究水平具有重要的促进作用。&lt;/p></description></item><item><title>王国路同学参加CCF"并行程序设计与性能优化"学科前沿讲习班</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/15-11-11-learn/</link><pubDate>Wed, 11 Nov 2015 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/15-11-11-learn/</guid><description>&lt;p>2015年11月8日-10日，由中国计算机学会（CCF）举办的学科前沿讲习班（ADL）“并行程序设计与性能优化”在无锡举行。实验室安排硕士生王国路同学参加了此次讲习班。&lt;/p>
+&lt;p>随着并行体系结构的发展，当今世界主流的计算系统大多都提供了丰富的并行机制，怎样充分利用硬件提供的计算能力是一个亟待解决的问题，也是当前的研究热点，本期CCF学科前沿讲习班邀请到了编译优化领域以及跨领域的重量级专家学者，就并行程序设计与性能优化领域的关键问题、相关理论和方法进行深入浅出的介绍，并对如何开展本领域前沿技术研究进行了探讨。邀请的专家学者包括解放军信息工程大学教授庞建民、美国特拉华大学终身教授高光荣、英特尔数据中心事业部亚太及中国区高性能计算/工作站方案架构师何万青、江南计算技术研究所高级工程师何王全、中科院计算所研究员、计算机体系结构国家重点实验室副主任冯晓兵等。&lt;/p>
+&lt;p>参加此次讲习班，是一个很好的与国内外同行交流的机会，同时扩展了实验室研究生的学术视野，对于提高理论水平、了解学科热点和最新发展趋势大有裨益。&lt;/p>
+&lt;p>“并行程序设计与性能优化”学科前沿讲习班链接：http://www.ccf.org.cn/sites/ccf/adldongtai.jsp?contentId=2886625689621&lt;/p></description></item><item><title>徐俊刚教授赴武汉大学做学术报告</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/15-10-30-report/</link><pubDate>Fri, 30 Oct 2015 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/15-10-30-report/</guid><description>&lt;p>应武汉大学计算机学院龚亦利副教授的邀请，实验室徐俊刚教授于2015年10月29日至30日赴武汉大学做了“Performance Analysis on Big Data Platform and Applications”学术报告。该报告基于国家自然科学基金面上项目“云中并行程序性能分析方法研究”的阶段性成果，介绍了大数据平台性能模型、性能瓶颈定位方法和性能分析工具。报告后，与武汉大学龚亦利、何水兵老师以及同时来访的Ohio state University的Xiaoyi Lu博士进行了交流。&lt;/p>
+&lt;p>学术报告链接：http://cs.whu.edu.cn/a/xueshujiangzuofabu/2015/1027/1832.html#top&lt;/p></description></item><item><title>徐俊刚教授赴成都参加2015年全国数据库学术会议</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/15-10-18-meeting/</link><pubDate>Sun, 18 Oct 2015 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/15-10-18-meeting/</guid><description>&lt;p>2015年10月16日-18日，实验室徐俊刚教授赴成都参加了2015年第32届全国数据库学术会议，同时作为中国计算机学会数据库专委会的委员，参加了一年一度的专委会会议，并参加了秘书长的竞选。全国数据库学术会议至今已经举办了32届，是全国数据库领域最高水平的会议。本次会议由中国计算机学会主办，中国计算机学会数据库专委会协办，四川大学等高校承办，会议主要关注数据库技术所面临的新的挑战问题和研究方向，着力反映我国数据库技术研究的最新进展。&lt;/p>
+&lt;p>会议网站：http://www.ndbc2015.org/&lt;/p>
+&lt;p>注：封面报告人为昆士兰大学周晓方教授&lt;/p></description></item></channel></rss>

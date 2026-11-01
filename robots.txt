@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://tianyuzong.github.io/ucas-ccip-website-pages/sitemap.xml
