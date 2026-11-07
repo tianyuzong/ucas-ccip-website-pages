@@ -118,28 +118,7 @@ AAAI 2025
 &lt;a class="btn btn-outline-primary btn-sm" href="https://tianyuzong.github.io/ucas-ccip-website-pages/ucas-ccip-website-pages/publication/conferences/dblp-conficann-wang-jx-24/cite.bib">BibTeX&lt;/a>
 &lt;/div>
 &lt;/div>
-&lt;/section></description></item><item><title>云计算与智能信息处理实验室</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/research/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/research/</guid><description>&lt;p>云计算与智能信息处理实验室（Cloud Computing &amp;amp; Intelligent Information Processing Laboratory，CCIP）成立于2010年1月，隶属于中国科学院大学计算机科学与技术学院，拥有自由开放的学术氛围和国际前沿的研究方向。实验室主任为徐俊刚教授。
-&lt;figure id="figure-团队合照">
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="团队合照" srcset="
-/ucas-ccip-website-pages/media/team2-16-9_hu16ade838041bc11819f49727cb6f36fa_1196022_f47fff982bb6eb536198291bf973406e.webp 400w,
-/ucas-ccip-website-pages/media/team2-16-9_hu16ade838041bc11819f49727cb6f36fa_1196022_ccb79c68c48bd73919dda4123fc5116a.webp 760w,
-/ucas-ccip-website-pages/media/team2-16-9_hu16ade838041bc11819f49727cb6f36fa_1196022_1200x1200_fit_q75_h2_lanczos.webp 1200w"
-src="https://tianyuzong.github.io/ucas-ccip-website-pages/ucas-ccip-website-pages/media/team2-16-9_hu16ade838041bc11819f49727cb6f36fa_1196022_f47fff982bb6eb536198291bf973406e.webp"
-width="760"
-height="428"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;figcaption>
-团队合照
-&lt;/figcaption>&lt;/figure>
-&lt;/p>
-&lt;p>实验室主要的研究方向和目标：&lt;/p>
-&lt;p>（1）&lt;strong>多模态智能&lt;/strong>。研究图像、视频、文本、语音、3D等多模态数据的表示、对齐、翻译和融合算法，研究多模态大模型的训练、测试和评测方法，支撑图像描述、可视问答、图文混合生图、图文混合生视频、图文混合生3D、文生音频、多模态知识管理等多模态任务。&lt;/p>
-&lt;p>（2）&lt;strong>智能决策与优化&lt;/strong>。基于运筹学、机器学习、深度学习、系统分析等方法，支撑多个领域的智能决策与优化，包括EDA逻辑综合与布局、自动排班、库存优化、多参数调优、网络优化、路径规划、资源分配、投资组合优化等。&lt;/p>
-&lt;p>（3）&lt;strong>具身智能&lt;/strong>。研究基于深度强化学习的机器人运控算法，研发机器人运控与仿真系统，研究多模态大模型与机器人融合关键技术。&lt;/p>
-&lt;p>实验室承担了多项国家级和省部级科研项目，包括国家重点研发计划子课题、国家科技支撑计划课题、国家863计划课题、国家自然科学基金面上项目、国家自然科学基金青年基金项目、北京市科技计划课题、北京市自然科学基金面上项目等。实验室出版著作3部，发表国内外学术期刊论文及国际学术会议论文近200篇，申请专利多项。&lt;br/>&lt;br/>
-实验室坚持开放与合作，与中国科学院计算技术研究所、中国科学院自动化研究所、中国科学院软件研究所、国科大杭州高等研究院、水利部信息中心、国家电网电力科学研究院、中国气象科学研究院等单位建立了合作关系。&lt;br/>&lt;br/>
-实验室本着“博学笃志，格物明德”的国科大精神，坚持“创新、求实、开放、合作”的理念，不断开拓进取，致力成为国内一流的科研和人才培养基地。&lt;/p></description></item><item><title>论文《Improving Image Captioning with Image Concepts of Words》发表</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/paper-dblp-confksem-wang-xjxs-24/</link><pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/paper-dblp-confksem-wang-xjxs-24/</guid><description>
+&lt;/section></description></item><item><title>云计算与智能信息处理实验室</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/research/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/research/</guid><description>&lt;p&gt;云计算与智能信息处理实验室（Cloud Computing &amp; Intelligent Information Processing Laboratory，CCIP）成立于2010年1月，隶属于中国科学院大学计算机科学与技术学院，拥有自由开放的学术氛围和国际前沿的研究方向。实验室主任为徐俊刚教授。&lt;figure id=figure-团队合照&gt;&lt;div class="d-flex justify-content-center"&gt;&lt;div class=w-100&gt;&lt;img alt=团队合照 src=https://tianyuzong.github.io/ucas-ccip-website-pages/media/team-2026.jpg width=1922 height=1280 loading=lazy decoding=async style="width:100%;height:auto" data-zoomable&gt;&lt;/div&gt;&lt;/div&gt;&lt;figcaption&gt;团队合照&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;&lt;p&gt;实验室主要的研究方向和目标：&lt;/p&gt;&lt;p&gt;（1）&lt;strong&gt;多模态智能&lt;/strong&gt;。研究图像、视频、文本、语音、3D等多模态数据的表示、对齐、翻译和融合算法，研究多模态大模型的训练、测试和评测方法，支撑图像描述、可视问答、图文混合生图、图文混合生视频、图文混合生3D、文生音频、多模态知识管理等多模态任务。&lt;/p&gt;&lt;p&gt;（2）&lt;strong&gt;世界模型&lt;/strong&gt;。开展 JEPA、视频生成等世界模型优化研究，研究 3DGS、4DGS 时空重建方法，研发 Text2CAD、Text2Simulation 工业世界模型，挖掘物理规律，构建工业内在仿真体系，实现文本驱动产品建模推演，支撑产品设计、仿真验证与生产优化。&lt;/p&gt;&lt;p&gt;（3）&lt;strong&gt;具身智能&lt;/strong&gt;。研究基于深度强化学习的机器人运控算法，研发机器人运控与仿真系统，研究多模态大模型与机器人融合关键技术，包括视觉语言交互、导航和动作。&lt;/p&gt;&lt;p&gt;（4）&lt;strong&gt;智能决策与优化&lt;/strong&gt;。基于运筹学、机器学习、深度学习、系统分析等方法，支撑多个领域的智能决策与优化，包括EDA逻辑综合与布局、自动排班、库存优化、多参数调优、网络优化、路径规划、资源分配、投资组合优化等。&lt;/p&gt;&lt;p&gt;实验室承担了多项国家级和省部级科研项目，包括国家重点研发计划子课题、国家科技支撑计划课题、国家863计划课题、国家自然科学基金面上项目、国家自然科学基金青年基金项目、北京市科技计划课题、北京市自然科学基金面上项目等。实验室出版著作3部，发表国内外学术期刊论文及国际学术会议论文近200篇，申请专利多项。&lt;br&gt;&lt;br&gt;实验室坚持开放与合作，与中国科学院计算技术研究所、中国科学院自动化研究所、中国科学院软件研究所、国科大杭州高等研究院、水利部信息中心、国家电网电力科学研究院、中国气象科学研究院等单位建立了合作关系。&lt;br&gt;&lt;br&gt;实验室本着“博学笃志，格物明德”的国科大精神，坚持“创新、求实、开放、合作”的理念，不断开拓进取，致力成为国内一流的科研和人才培养基地。&lt;/p&gt;</description></item><item><title>论文《Improving Image Captioning with Image Concepts of Words》发表</title><link>https://tianyuzong.github.io/ucas-ccip-website-pages/post/paper-dblp-confksem-wang-xjxs-24/</link><pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate><guid>https://tianyuzong.github.io/ucas-ccip-website-pages/post/paper-dblp-confksem-wang-xjxs-24/</guid><description>
 &lt;section class="publication-news" data-publication-ref="/publication/conferences/dblp-confksem-wang-xjxs-24">
 &lt;div class="student-publication" data-publication-id="dblp-confksem-wang-xjxs-24">
 &lt;div class="font-weight-bold">&lt;a href="https://tianyuzong.github.io/ucas-ccip-website-pages/ucas-ccip-website-pages/publication/conferences/dblp-confksem-wang-xjxs-24/">Improving Image Captioning with Image Concepts of Words&lt;/a>&lt;/div>
